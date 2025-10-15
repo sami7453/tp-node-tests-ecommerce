@@ -1,0 +1,13 @@
+{
+  "name": "tp-node-tests-ecommerce",
+  "version": "1.0.0",
+  "description": "TP: tests unitaires et fonctionnels",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "node tests/testEcommerce.js",
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": []
+}
